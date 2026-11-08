@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-upf-operator/commit/bfaaa4903e8f10618f5c8ff2d1b243b221fa0cfb",
       "git:hexsha": "bfaaa4903e8f10618f5c8ff2d1b243b221fa0cfb",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev294"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev294",
+      "repolex:parsedAt": "2026-11-08T14:49:44.497507+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-upf-operator/commit/c09086fc6aabe33fcf7b6901f4972d2e81cb332a",
