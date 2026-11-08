@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-upf-operator",
+  "versions": [
+    {
+      "commit": "bfaaa4903e8f10618f5c8ff2d1b243b221fa0cfb",
+      "tag": "rev294",
+      "parsed_at": "2026-11-08T14:49:44.498897+00:00"
+    }
+  ]
+}
